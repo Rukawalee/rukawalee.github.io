@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rukawalee&#39;s Site</title>
-    <link>https://rukawalee.github.io/</link>
+    <link>/</link>
     <description>Recent content on Rukawalee&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://rukawalee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Formatting Demo</title>
-      <link>https://rukawalee.github.io/blog/markdown-formatting-demo/</link>
+      <link>/blog/markdown-formatting-demo/</link>
       <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/markdown-formatting-demo/</guid>
+      <guid>/blog/markdown-formatting-demo/</guid>
       <description>This example Markdown file compliments of markdown-it.github.io
 h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
@@ -27,109 +27,109 @@ This is italic text</description>
     
     <item>
       <title>Recipe App Ux Study</title>
-      <link>https://rukawalee.github.io/portfolio/recipe-app-ux-study/</link>
+      <link>/portfolio/recipe-app-ux-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/portfolio/recipe-app-ux-study/</guid>
+      <guid>/portfolio/recipe-app-ux-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>UX Case Study for Agriculture App</title>
-      <link>https://rukawalee.github.io/portfolio/ux-case-study-for-agriculture-app/</link>
+      <link>/portfolio/ux-case-study-for-agriculture-app/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
-      <guid>https://rukawalee.github.io/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <guid>/portfolio/ux-case-study-for-agriculture-app/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Event App Case Study</title>
-      <link>https://rukawalee.github.io/portfolio/event-app-case-study/</link>
+      <link>/portfolio/event-app-case-study/</link>
       <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/portfolio/event-app-case-study/</guid>
+      <guid>/portfolio/event-app-case-study/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Designer Conference at Florida 2020</title>
-      <link>https://rukawalee.github.io/blog/designer-conference-at-florida-2020/</link>
+      <link>/blog/designer-conference-at-florida-2020/</link>
       <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/designer-conference-at-florida-2020/</guid>
+      <guid>/blog/designer-conference-at-florida-2020/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Benjamin Franklins thoughts about new designers</title>
-      <link>https://rukawalee.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <link>/blog/benjamin-franklins-thoughts-about-new-designers/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <guid>/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Case Study One</title>
-      <link>https://rukawalee.github.io/portfolio/case-study-one/</link>
+      <link>/portfolio/case-study-one/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/portfolio/case-study-one/</guid>
+      <guid>/portfolio/case-study-one/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Designers thoughts about mobile UI</title>
-      <link>https://rukawalee.github.io/blog/designers-thoughts-about-mobile-ui/</link>
+      <link>/blog/designers-thoughts-about-mobile-ui/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/designers-thoughts-about-mobile-ui/</guid>
+      <guid>/blog/designers-thoughts-about-mobile-ui/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>How to become acreative designer</title>
-      <link>https://rukawalee.github.io/blog/how-to-become-acreative-designer/</link>
+      <link>/blog/how-to-become-acreative-designer/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/how-to-become-acreative-designer/</guid>
+      <guid>/blog/how-to-become-acreative-designer/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>New designers limitations</title>
-      <link>https://rukawalee.github.io/blog/new-designers-limitations/</link>
+      <link>/blog/new-designers-limitations/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/new-designers-limitations/</guid>
+      <guid>/blog/new-designers-limitations/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Things you must know as a designer</title>
-      <link>https://rukawalee.github.io/blog/things-you-must-know-as-a-designer/</link>
+      <link>/blog/things-you-must-know-as-a-designer/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/things-you-must-know-as-a-designer/</guid>
+      <guid>/blog/things-you-must-know-as-a-designer/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>World&#39;s Most Famous App Developers and Designers</title>
-      <link>https://rukawalee.github.io/blog/world-most-famous-app-developers-and-designers/</link>
+      <link>/blog/world-most-famous-app-developers-and-designers/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/world-most-famous-app-developers-and-designers/</guid>
+      <guid>/blog/world-most-famous-app-developers-and-designers/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>You must know this before becoming a designer</title>
-      <link>https://rukawalee.github.io/blog/you-must-know-this-before-becoming-a-designer/</link>
+      <link>/blog/you-must-know-this-before-becoming-a-designer/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/you-must-know-this-before-becoming-a-designer/</guid>
+      <guid>/blog/you-must-know-this-before-becoming-a-designer/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>website on Rukawalee&#39;s Site</title>
-    <link>https://rukawalee.github.io/tags/website/</link>
+    <link>/tags/website/</link>
     <description>Recent content in website on Rukawalee&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://rukawalee.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Formatting Demo</title>
-      <link>https://rukawalee.github.io/blog/markdown-formatting-demo/</link>
+      <link>/blog/markdown-formatting-demo/</link>
       <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/markdown-formatting-demo/</guid>
+      <guid>/blog/markdown-formatting-demo/</guid>
       <description>This example Markdown file compliments of markdown-it.github.io
 h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
@@ -27,19 +27,19 @@ This is italic text</description>
     
     <item>
       <title>Benjamin Franklins thoughts about new designers</title>
-      <link>https://rukawalee.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <link>/blog/benjamin-franklins-thoughts-about-new-designers/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <guid>/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>New designers limitations</title>
-      <link>https://rukawalee.github.io/blog/new-designers-limitations/</link>
+      <link>/blog/new-designers-limitations/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>https://rukawalee.github.io/blog/new-designers-limitations/</guid>
+      <guid>/blog/new-designers-limitations/</guid>
       <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Me on Rukawalee&#39;s Site</title>
-    <link>https://rukawalee.github.io/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Contact Me on Rukawalee&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://rukawalee.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
