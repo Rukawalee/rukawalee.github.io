@@ -28,5 +28,5 @@ jobs:
         with:
           gitee-username: Rukawalee
           gitee-password: ${{ secrets.GITEE_PWD }}
-          gitee-repo: Rukawalee/Rukawalee
+          gitee-repo: rukawalee/rukawalee
           branch: master
