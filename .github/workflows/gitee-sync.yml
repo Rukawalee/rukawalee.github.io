@@ -1,4 +1,4 @@
-name: deploy blog to gitee
+name: sync to gitee & reoload page.
  
 on:
   push:
